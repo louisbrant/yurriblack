@@ -68,12 +68,12 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <details>
   <summary><b>💻&nbsp;&nbsp;Github Stats</b></summary>
 
-  <!-- https://github.com/89igor -->
+  <!-- https://github.com/YurriBlack -->
   <br />
-  <a href="https://github.com/89igor">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="89igor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=89igor&theme=monokai-metallian&hide_border=true" height="192px"/>
+  <a href="https://github.com/YurriBlack">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="YurriBlack's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YurriBlack&theme=monokai-metallian&hide_border=true" height="192px"/>
   </a>
-  <a href="https://github.com/89igor"><img alt="89igor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89igor&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/YurriBlack"><img alt="YurriBlack's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YurriBlack&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -82,24 +82,24 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <details>
   <summary><b>📊&nbsp;&nbsp;Activity in this year</b></summary>
   <br />
-  <a href="https://github.com/89igor">
-    <img alt="89igor's Activity Graph last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=89igor&theme=github_dark" />
+  <a href="https://github.com/YurriBlack">
+    <img alt="YurriBlack's Activity Graph last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YurriBlack&theme=github_dark" />
   </a>
 </details>
 
 <details>
   <summary><b>📊&nbsp;&nbsp;Activity in this month</b></summary>
   <br />
-  <a href="https://github.com/89igor">
-    <img alt="89igor's Activity Graph last month" src="https://github-readme-activity-graph.vercel.app/graph/?username=89igor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <a href="https://github.com/YurriBlack">
+    <img alt="YurriBlack's Activity Graph last month" src="https://github-readme-activity-graph.vercel.app/graph/?username=YurriBlack&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
 </details>
 
 <details>
     <summary><b>🏆&nbsp;&nbsp;Github Trophy</b></summary>
     <br />
-    <a href="https://github.com/89igor">
-        <img alt="89igor's Trophy" src="https://github-profile-trophy.vercel.app/?username=89igor&theme=onedark&column=7" />
+    <a href="https://github.com/YurriBlack">
+        <img alt="YurriBlack's Trophy" src="https://github-profile-trophy.vercel.app/?username=YurriBlack&theme=onedark&column=7" />
     </a>
 </details>
 
